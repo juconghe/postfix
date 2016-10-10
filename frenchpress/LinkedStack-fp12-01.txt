@@ -1,0 +1,7 @@
+FrenchPress 1.2 feedback for LinkedStack.java
+
+Instance variables such as
+     MySize (12)
+could be declared static final (class constants) because they are
+initialized to a constant value and never changed later.
+

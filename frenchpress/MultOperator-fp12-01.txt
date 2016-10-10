@@ -1,0 +1,3 @@
+FrenchPress 1.2 feedback for MultOperator.java
+
+Good work!  FrenchPress found no flaws in your code.

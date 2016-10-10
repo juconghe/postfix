@@ -1,0 +1,6 @@
+FrenchPress 1.2 feedback for LLNode.java
+
+These methods are declared public but never called outside their own class:
+     setInfo (13)
+You could declare them private instead.
+

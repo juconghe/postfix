@@ -1,0 +1,3 @@
+FrenchPress 1.2 feedback for PlusOperator.java
+
+Good work!  FrenchPress found no flaws in your code.
